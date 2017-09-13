@@ -18,7 +18,7 @@ Generate files or dirs from this template:
 
 ```
 
-If you don't want to write rendered files to dist, you can use echo mode:
+If you don't want to write rendered files to disk, you can specify echo mode:
 
 ```
 > tpl render {{tpl_name}} --output_dir ./ --echo
