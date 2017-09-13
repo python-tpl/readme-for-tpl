@@ -7,7 +7,7 @@
 Pull this template to your local machine:
 
 ```
-tpl pull readme-for-tpl
+> tpl pull readme-for-tpl
 
 ```
 

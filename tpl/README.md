@@ -7,7 +7,7 @@
 Pull this template to your local machine:
 
 ```
-tpl pull {{tpl_name}}
+> tpl pull {{tpl_name}}
 
 ```
 
